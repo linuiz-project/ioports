@@ -1,0 +1,9 @@
+[package]
+name = "ioports"
+version = "1.0.0"
+edition = "2024"
+license = "BSD-3-Clause"
+repository = "https://github.com/linuiz-project/ioports"
+keywords = ["io", "port", "serial", "osdev"]
+categories = ["no-std", "embedded"]
+description = "A simple library for interacting with IO ports on various platforms (currently, x86, x86_64, and RISCV64)."
